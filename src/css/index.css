@@ -1,0 +1,71 @@
+body {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    margin: 0;
+    height: 100vh;
+    background-image: url(../assets/imgs/background.jpg);
+    background-size: cover;
+}
+
+/* adjust and center the divs */
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* creation of the covers */
+.cover {
+    width: 200px;
+    height: 200px;
+    border: 1px solid gray;
+    background-size: cover;
+}
+
+/* adds the images to the covers */
+.cv1 {
+    background-image: url(../assets/imgs/img1.jpg);
+}
+
+.cv2 {
+    background-image: url(../assets/imgs/img2.jpeg);
+}
+
+.cv3 {
+    background-image: url(../assets/imgs/img3.jpg);
+}
+
+/* creation of vinyl */
+.vinyl {
+    background: black;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    z-index: -1;
+    transform: translate(-100%, 0);
+    transition: transform 2s;
+}
+
+.detail {
+    background: rgb(0, 153, 255);
+    border-radius: 50%;
+    width: 135px;
+    height: 135px;
+}
+
+.lable {
+    background: rgb(91, 208, 247);
+    border-radius: 50%;
+    width: 75px;
+    height: 75px;
+}
+
+.hole {
+    background: white;
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+}
