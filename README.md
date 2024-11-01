@@ -5,7 +5,7 @@
 - [Link](#link)
 
 ### Description
-Una página web inspirada en Spotify, creada con HTML, CSS y JavaScript, que permite a los usuarios reproducir una selección de tres canciones al hacer clic en las carátulas. La interfaz presenta un diseño moderno e intuitivo, ofreciendo una experiencia de escucha simple y atractiva.
+A Spotify-inspired website, created with HTML, CSS and JavaScript, that allows users to play a selection of three songs by clicking on the covers. The interface features a modern and intuitive design, offering a simple and attractive listening experience.
 
 ### Link
 Here you have the link to my project: [Java Spotify](https://chugani05.github.io/JavaSpotify/)
