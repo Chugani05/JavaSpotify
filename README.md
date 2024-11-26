@@ -1,4 +1,5 @@
 # Java Spotify
+<img src="src/assets/imgs/vinyl.png" alt="logo" width="30%">
 
 ## Content
 - [Description](#description)
